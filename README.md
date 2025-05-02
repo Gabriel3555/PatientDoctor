@@ -109,7 +109,3 @@ El sistema está preparado para la incorporación de nuevos microservicios. Para
 - Docker (opcional, para despliegue y orquestación)
 
 ---
-
-## Autor
-
-**Gabriel3555**
