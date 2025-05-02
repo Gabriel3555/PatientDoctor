@@ -1,8 +1,8 @@
-# PatientDoctor Microservices System
+# Patient Doctor Microservices System
 
 ## Descripción General
 
-**PatientDoctor** es un sistema distribuido basado en microservicios, diseñado para la gestión de pacientes y doctores en un entorno clínico. Utiliza Spring Boot y Spring Cloud para garantizar escalabilidad, mantenibilidad y facilidad de integración. El sistema sigue buenas prácticas de arquitectura de microservicios, permitiendo la incorporación de nuevos servicios de manera sencilla.
+**Patient Doctor** es un sistema distribuido basado en microservicios, diseñado para la gestión de pacientes y doctores en un entorno clínico. Utiliza Spring Boot y Spring Cloud para garantizar escalabilidad, mantenibilidad y facilidad de integración. El sistema sigue buenas prácticas de arquitectura de microservicios, permitiendo la incorporación de nuevos servicios de manera sencilla.
 
 ---
 
